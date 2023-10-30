@@ -4,9 +4,19 @@ In this work we will classify news into true news written by a human vs fake, bo
 
 # How to Run
 
+## Dependencies
+- pandas 
+- numpy 
+- scipy
+- matplotlib
+- sklearn 
+- random
+- seaborn 
+- tensorflow 
+
 ## Setup:
 
-Clone the repository to your local machine
-Ensure you've installed all required dependencies (see the "Dependencies" section)
-Download data and place it in your working directory
-Note: Some libraries are imported with specific abbreviations in the code, like import numpy as np
+• Clone the repository to your local machine \
+• Ensure you've installed all required dependencies (see the "Dependencies" section) \
+• Download data and place it in your working directory \
+• Note: Some libraries are imported with specific abbreviations in the code, like import numpy as np
