@@ -1,4 +1,4 @@
-# Natural Language Processing task
+# Human written vs bot-generated news
 
 This work relates to news classification into the ones written by a human vs written by a bot / generated sentences. As part of the classification task, we create transition matrix Q for true sentences and use likelihood function in order to estimate the likelihood of a particular sentence being written by a human. We then use neural network that we train to predict the next word given current words. 
 
