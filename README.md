@@ -8,14 +8,7 @@ This work doesn't incorporate all of the details of the final algorithm, and is 
 # How to Run
 
 ## Dependencies
-- pandas 
-- numpy 
-- scipy
-- matplotlib
-- sklearn 
-- random
-- seaborn 
-- tensorflow 
+All requirements can be found in the requirements.txt file.
 
 ## Setup:
 
